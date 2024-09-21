@@ -1,6 +1,7 @@
 print('Hello World')
 print('Введите два числа')
 
+m=0
 print('Пипяо')
 a=int(input())
 b=int(input())
