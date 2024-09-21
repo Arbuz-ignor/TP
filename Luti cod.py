@@ -8,6 +8,7 @@ f=c*0
 y=1
 h=y-f
 j=1
+print('TLKkt4kete')
 t=241214
 c1='Z'
 c2='O'
