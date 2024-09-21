@@ -1,6 +1,7 @@
 print('Hello World')
 print('Введите два числа')
 
+print('Пипяо')
 a=int(input())
 b=int(input())
 c=a//b
@@ -15,3 +16,4 @@ c3='V'
 c4='abort'
 c5='rep'
 u=c4+c5
+print(u)
